@@ -24,7 +24,8 @@
 #### 𝒁-𝑻𝒖𝒓𝒏 𝒐𝒓 𝒅𝒊𝒆 | Thanks for your visiting ❤️  
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@MreAtKC.github.readme" alt=":name" />
+  <img src="https://count.getloli.com/get/@MreAtKC.github.readme">
 </p>
+
 
 ![Footer](./Footer.svg)
