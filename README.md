@@ -1,4 +1,4 @@
-![Header](./Header.png)
+![Header](https://raw.gitmirror.com/MreAtKC/MreAtKC/main/Header.png)
 
 ### 👋 Hi Here! 
 
@@ -8,10 +8,11 @@
 - 🧱 出于**爱好**，我会在 *GitHub* 上开源些小项目，写代码是热爱，写到世间充满爱
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MreAtKC/MreAtKC/Snk/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MreAtKC/MreAtKC/Snk/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MreAtKC/MreAtKC/Snk/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.gitmirror.com/MreAtKC/MreAtKC/Snk/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.gitmirror.com/MreAtKC/MreAtKC/Snk/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.gitmirror.com/MreAtKC/MreAtKC/Snk/github-contribution-grid-snake.svg">
 </picture>
+
 
 ---
 
@@ -28,4 +29,4 @@
 </p>
 
 
-![Footer](./Footer.svg)
+![Footer](https://raw.gitmirror.com/MreAtKC/MreAtKC/main/Footer.svg)
